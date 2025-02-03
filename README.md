@@ -18,7 +18,7 @@ Actually an hash table of words are created in such a way that all words are sor
 - Data structures: Hashing, Single Linked List. 
 - File Handling
 
-1. **Compile Program Execution**
+1. **Compile**
    ```bash
    gcc main.c is.c is.h
    ```
