@@ -26,6 +26,6 @@ Actually an hash table of words are created in such a way that all words are sor
    ```bash
    ./a.out < ".txt" files for which we want to create a database >
 
-   Example: ./a.out temp1.txt temp2.txt temp3.txt alpha.txt etc......
+   Example: ./a.out <temp1.txt> <temp2.txt> <temp3.txt> <alpha.txt> etc......
    ```
    
